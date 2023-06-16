@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  color: #f8fafc;
+  background-color: #0f172a;
+}
+
+a,
+a:visited {
+  color: #3b82f6;
+}
+
+a:hover {
+  color: #2563eb;
+}
